@@ -8,6 +8,9 @@
       <e p="appsettings.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="ContosoUniversity.csproj" t="IncludeRecursive" />
+      <e p="CU.db" t="Include" />
+      <e p="CU.db-shm" t="Include" />
+      <e p="CU.db-wal" t="Include" />
       <e p="Data" t="Include">
         <e p="DbInitializer.cs" t="Include" />
         <e p="SchoolContext.cs" t="Include" />
@@ -56,6 +59,7 @@
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
       <e p="Startup.cs" t="Include" />
       <e p="wwwroot" t="Include">
         <e p="css" t="Include">
